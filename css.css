@@ -1,0 +1,9 @@
+.section
+{
+    display:flex;
+}
+.video{
+    width:44vw;
+    height:40vh;
+    border:1px solid blue;
+}
